@@ -12,8 +12,9 @@ import os
 IMG_EXTENSIONS = [
     '.jpg', '.JPG', '.jpeg', '.JPEG',
     '.png', '.PNG', '.ppm', '.PPM', '.bmp', '.BMP',
-    '.tif', '.TIF', '.tiff', '.TIFF',
+    '.tif', '.TIF', '.tiff', '.TIFF', '.txt'
 ]
+# add label file extensions
 
 
 def is_image_file(filename):

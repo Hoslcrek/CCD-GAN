@@ -1,0 +1,4 @@
+classes= 1
+train=data/NR40dB/train.txt
+valid=data/NR40dB/valid.txt
+names=data/NR40dB/classes.names
